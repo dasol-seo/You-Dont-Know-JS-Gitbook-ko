@@ -9,5 +9,7 @@
   * [단어](interface/word.md)
   * [구문](interface/phrase.md)
   * [문장](interface/sentence.md)
+* [회의록](log/README.md)
+  * [190428](log/190428.md)
 * [메모](memo.md)
 
