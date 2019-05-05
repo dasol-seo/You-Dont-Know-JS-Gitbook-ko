@@ -13,12 +13,17 @@
 | statement               |                                      |
 | loop                    |                                      |
 | conditional             |                                      |
+| note                    |                                      |
+| warning                 |                                      |
+| consider                |                                      |
 
 
 
 
 
-## 번역하지 않는 고유명사
+## 고유명사
 
-* Javascript
-* HTML
+| 원문                    | 번역                                 |
+| ----------------------- | ------------------------------------ |
+| HTML                    | HTML                               |
+| Javascript              | 자바스크립트                               |
