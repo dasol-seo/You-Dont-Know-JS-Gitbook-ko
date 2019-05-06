@@ -16,6 +16,8 @@
 | note                    |                                     |
 | warning                 |                                     |
 | consider                |                                     |
+| phone store / employee  |                                     |
+
 
 
 
