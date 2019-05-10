@@ -17,8 +17,6 @@ kizmo_ch1.md-CodeComments
 kizmo_ch1.md-Blocks
 ```
 
-
-
 ## 커밋 메시지 작성하기
 
 ### 1. 기본 규칙: 자신이 어떤 작업을 했는지 내가 알고, 동료가 알 수 있게 작성하기
@@ -26,4 +24,13 @@ kizmo_ch1.md-Blocks
 ``` text
 upAndGoing_ch1.md-Blocks: translate contents
 upAndGoing_ch1.md-tryItYourself: update contents
+```
+
+## 리뷰 코멘트 작성하기
+
+### 1. 기본 규칙: 코멘트로 변경사항을 동료가 알기 쉽게 작성하기
+
+```text
+~아버지가방에들어가셨다~  // 리뷰 전
+아버지가 방에 들어가셨다  // 리뷰 후(권고)
 ```

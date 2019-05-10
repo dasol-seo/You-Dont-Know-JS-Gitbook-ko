@@ -20,6 +20,7 @@
 | see sth                 | ~를 참고하세요                          |
 | scope                   | 스코프                                 |
 | return                  | 반환한다                                |
+| expression              | 표현식                                 |
 
 
 ## 고유명사
