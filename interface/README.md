@@ -21,6 +21,18 @@
 | scope                   | 스코프                                 |
 | return                  | 반환한다                                |
 | expression              | 표현식                                 |
+| property |속성 |
+| object wrapper | 객체 래퍼 |
+| boxing | 박싱 |
+| array, function | 맥락에 맞게 번역 |
+| literal | 리터럴 |
+| snippet | 스니펫 |
+| wrapper | 래퍼 |
+| built-in type | 내장 타입 |
+| subtype |  하위 타입 |
+| inequality(==) | 비동등 |
+| non-equality(===) | 불일치 |
+| JS | 자바스크립트 |
 
 
 ## 고유명사
