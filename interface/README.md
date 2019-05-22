@@ -33,6 +33,7 @@
 | inequality(==) | 비동등 |
 | non-equality(===) | 불일치 |
 | JS | 자바스크립트 |
+| specification | 기술명세서 |
 
 
 ## 고유명사
